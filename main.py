@@ -137,4 +137,4 @@ else:
     pass
 for i in range(18):
     st.sidebar.markdown(" ")
-st.sidebar.subheader("Nikhil")
+st.sidebar.subheader("Shubham Nikhil Vrinda")
